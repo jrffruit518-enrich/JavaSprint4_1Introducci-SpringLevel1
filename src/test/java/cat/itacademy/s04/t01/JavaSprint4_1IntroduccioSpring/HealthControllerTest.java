@@ -13,12 +13,12 @@ public class HealthControllerTest {
     @Autowired
     private MockMvc mockMvc;
 
- /*   @Test
+    @Test
     void shouldReturnOkStatus() throws Exception {
-        mockMvc.perform(get("/health"));
-        *//*        .andExpect(status().isOk())
-                .andExpect(jsonPath("$.status").value("OK"));*//*
-    }*/
+        mockMvc.perform(get("/health"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.status").value("OK"));
+    }
 
 
 }
