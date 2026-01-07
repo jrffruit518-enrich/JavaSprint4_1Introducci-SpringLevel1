@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cat.itacademy.s04.t01</groupId>
-	<artifactId>JavaSprint4_1IntroduccioSpring</artifactId>
+	<artifactId>JavaSprint4_1IntroduccioSpringlevel1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JavaSprint4_1IntroduccioSpring</name>
+	<name>JavaSprint4_1IntroduccioSpringlevel1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
